@@ -4,7 +4,7 @@ Hello world!
 Welcome to Propra14.
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+incidunt ut labore et dolorem magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.
 Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat
 nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa
